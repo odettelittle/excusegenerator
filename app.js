@@ -1,14 +1,3 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
-
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
-
-window.onload = function() {
-  //write your code here
-  console.log("Hello Rigo from the console!");
-};
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
@@ -21,7 +10,7 @@ let when = [
   "right on time",
   "when I finished",
   "during my lunch",
-  "while I was praying"
+  "while I was praying",
 ];
 
 window.onload = function() {
