@@ -3,10 +3,10 @@ import 'bootstrap';
 import '../style/index.scss';
 
 window.onload = () => {
-  parenthesis
   let randomNumber [] = Math.random() *10;
-  document.querySelector ()
-}
+  document.querySelector (#the-excuse).innerHTML = randomNumber;
+  console.log ('Odette from the console!'+ randomNumber);
+};
 
 let generateExcuse  = () => {
 
